@@ -10,3 +10,5 @@ A simple script which creates a SceneReference class, allowing Unity developers 
 2. Place SceneReference.cs anywhere in the Assets folder, except the Editor folder.
 3. Use the SceneReference as a type in a script, for example: private SceneReference myScene; 
 4. See ChangeScenesDemo.cs for a simple implementation.
+
+#### Tested with Unity version 2022.3.4f1 both in editor and windows build.
